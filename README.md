@@ -5,16 +5,18 @@
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+##From the Install dialog, you can …
+
+1. Choose popular Discourse themes and theme components
+2. Install from a Git repository URL link
+3. Install from your local device (rare)
+
+Follow this link:
+- https://meta.discourse.org/t/how-do-i-install-a-theme-or-theme-component/63682
 
 # Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+![Discourse](https://github.com/Serendipity-Theme/discourse/blob/main/discourse.png?raw=true)
 
 # Who ported the theme?
-
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+Michael Andreuzza
 
